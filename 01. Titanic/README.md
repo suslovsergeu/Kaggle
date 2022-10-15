@@ -1,16 +1,16 @@
 # 01_Kaggle_ML_CL_Titanic
 https://www.kaggle.com/competitions/titanic
 
-**Цель проекта**   
-Построить модель, предсказывающую выжил пассажир или нет.
+**Target**   
+Develop model for passenger's survival estimation
 
-**Методология**   
-Задача классификации
+**Methodology**   
+Classification
 
-**Модели**
-- Логистическая регрессия
-- Случайный лес с подбором гиперпараметров
+**Stack**
+- Logistic regression
+- Random forest
 - KNN
 
-**Метрики**
+**Metrics**
 - F1-score
