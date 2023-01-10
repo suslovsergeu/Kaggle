@@ -1,6 +1,6 @@
 # Kaggle
  
-Данный репозиторий содержит все участия в соревнованиях. Ниже их краткое описание и результат.   
+Current repository contains all Kaggle projects that I have participated in. Below you can find a brief description.  
    
 | Project      | Overview               | Stack     |
 | :-------------------- | :--------------------- |:--------------------------- |
